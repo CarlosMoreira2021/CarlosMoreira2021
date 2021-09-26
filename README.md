@@ -2,7 +2,7 @@
  <h1>Olá, Meu nome é Carlos Eduardo</h1>
  <h2>Atualmente minhas stacks são</h2>
  <p>💻JavaScript, React, Html, Css, Dart, MySql, Ux, Git</p><br><br>
- <h2>Atualmente estou fazendo curso de :</h2><br>
+ <h2>Atualmente estou me capacitando em Cursos de :</h2><br>
  <p> React, Nodejs(Express) + TypeScript</p>
   
   <a href="https://github.com/CarlosMoreira2021">
