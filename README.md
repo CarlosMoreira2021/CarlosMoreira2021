@@ -1,5 +1,5 @@
  <div>
- <h1>Graduando em Análise e Desenvolvimento de Sistemas</h1>
+ <h1>📘Graduando em Análise e Desenvolvimento de Sistemas</h1>
  <h1>👨‍💻Atualmente minhas stacks são:</h1>
  <p>.JavaScript, React, HTML, CSS, Dart, MySQL, Ux, Git/GitHub</p>
  </div>
