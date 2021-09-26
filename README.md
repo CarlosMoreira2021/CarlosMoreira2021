@@ -1,13 +1,7 @@
  <div>
  <h1>📖Olá, Meu nome é Carlos Eduardo</h1>
  <h2>👨‍💻Atualmente minhas stacks são:</h2>
- <p>.JavaScript</p>
- <p>.React</p>
- <p>.Html</p>
- <p>.Css</p> 
- <p>.Dart</p>
- <p>.MySql<p>
- <p>.Ux</p>
+ <p>.JavaScript,React,HTML,CSS,Dart,MySQL,Ux</p>
  </div>
  <div>
  <p>.Git/GitHub</p>
