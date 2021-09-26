@@ -1,11 +1,10 @@
  <div>
- <h1>📖Olá, Meu nome é Carlos Eduardo</h1>
- <h2>👨‍💻Atualmente minhas stacks são:</h2>
+ <h1>👨‍💻Atualmente minhas stacks são:</h1>
  <p>.JavaScript, React, HTML, CSS, Dart, MySQL, Ux, Git/GitHub</p>
  </div>
  
  <div>
- <h2>📚Atualmente estou me capacitando em cursos de:</h2><br>
+ <h1>📚Atualmente estou me capacitando em cursos de:</h1>
  <p>.React</p>
  <p>.NodeJs</p>
  <p>.Express</p>
