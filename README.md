@@ -3,7 +3,10 @@
  <h2>👨‍💻Atualmente minhas stacks são:</h2>
  <p>💻JavaScript, React, Html, Css, Dart, MySql, Ux, Git</p>
  <h2>📚Atualmente estou me capacitando em cursos de:</h2><br>
- <p> React, Nodejs (Express) + TypeScript</p>
+ <p>.React</p>
+ <p>.NodeJs</p>
+ <p>.Express</p>
+ <p>.TypeScript</p>
  </div>
   
   <a href="https://github.com/CarlosMoreira2021">
