@@ -1,13 +1,23 @@
  <div>
  <h1>📖Olá, Meu nome é Carlos Eduardo</h1>
  <h2>👨‍💻Atualmente minhas stacks são:</h2>
- <p>💻JavaScript, React, Html, Css, Dart, MySql, Ux, Git</p>
+ <p>.JavaScript</p>
+ <p>.React</p>
+ <p>.Html</p>
+ <p>.Css</p> 
+ <p>.Dart</p>
+ <p>.MySql<p>
+ <p>.Ux</p>
+ </div>
+ <div>
+ <p>.Git/GitHub</p>
  <h2>📚Atualmente estou me capacitando em cursos de:</h2><br>
  <p>.React</p>
  <p>.NodeJs</p>
  <p>.Express</p>
  <p>.TypeScript</p>
  </div>
+
   
   <a href="https://github.com/CarlosMoreira2021">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMoreira2021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
