@@ -6,7 +6,7 @@ Support analyst
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [carlos201997vr@gmail.com](mailto:carlos201997vr@gmail.com)
-* 🧠  I'm learning NodeJs / SQL
+* 🧠  I'm learning Pyhton /Pandas / SQL
 
 ### Skills
 
