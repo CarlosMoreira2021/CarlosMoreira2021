@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos Eduardo
+My name is Carlos Eduardo
 ===============================
 
 Support analyst
