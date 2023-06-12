@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Eduardo</h1>
 <h3 align="center">I currently work as a support analyst and in my spare time I study web/mobile development using the technologies listed below</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlosmoreira2021&label=Profile%20views&color=0e75b6&style=flat" alt="carlosmoreira2021" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=carlosmoreira2021" alt="carlosmoreira2021" /></a> </p>
-
 - 📫 How to reach me **carlos201997vr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
