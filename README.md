@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Carlos Eduardo</h1>
+
 <h3 align="left">I currently work as a support analyst and in my spare time I study web/mobile development using the technologies listed below</h3>
 
 - 📫 How to reach me **carlos201997vr@gmail.com**
